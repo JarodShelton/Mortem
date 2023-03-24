@@ -1,0 +1,5 @@
+Unify time
+Rebalance time and enemies
+
+Take total and remaining time into account?
+Make time loss proportional?

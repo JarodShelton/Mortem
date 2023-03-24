@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be6d2fda970436d4295a9bff95fddf0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attackExplosion: {instanceID: 0}
+  - backProjectile: {instanceID: 0}
+  - agent: {instanceID: 0}
+  - source: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

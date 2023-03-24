@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bf77a14886edabe44a64df17df530986
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  - source: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  - landSound: {instanceID: 0}
+  - hitSound: {instanceID: 0}
+  - hurtSound: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - camShaker: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - scythe: {instanceID: 0}
+  - playerBody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

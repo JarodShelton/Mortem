@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c654fa76b85435a4087569475e9ed638
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Painter
+  fontNames:
+  - Painter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e9dce2585fd549448ceaec035ab742b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
